@@ -10,4 +10,4 @@ Ch 13. [액티비티 컴포넌트]할 일 목록 앱 만들기
 
 
 
-Ref. https://kkangsnote.tistory.com/259(깡샘의 토마토)
+Ref. https://kkangsnote.tistory.com/259 (깡샘의 토마토)
